@@ -1,0 +1,20 @@
+/* Скрываем навигацию для печати */
+nav {
+    display: none;
+}
+
+/* Скрываем кнопки и ссылки для печати */
+.button, a {
+    display: none;
+}
+
+/* Стили для печати */
+body {
+    background-color: #fff;
+    color: #000;
+}
+
+/* Скрываем футер для печати */
+footer {
+    display: none;
+}
